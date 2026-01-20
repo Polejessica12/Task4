@@ -21,3 +21,7 @@ Adult Income Dataset
 
 ## Outcome
 The dataset is now machine-learning ready.
+
+## Processed Dataset
+The preprocessed dataset was generated inside the notebook.
+Due to GitHub's 25MB file size limit, the processed CSV file is not uploaded.
